@@ -1,6 +1,7 @@
 # Tsuki (&#26376;)
 
-Tsuki is a streaming video server meant to be used with the Moon Player app.
+Tsuki is a simple streaming video server meant to be used with the Moon Player app.
+It has been tested on Linux, but probably works on other platforms as well.
 
 ### Prerequisites
 
@@ -14,3 +15,7 @@ Simply run the tsuki.py Python script.
 
 By default it looks for video files in the current directory. The first argument can be used to specify another directory.
 It attempts to figure out the IP address of the LAN Ethernet interface automatically.
+
+### License
+
+Released into the public domain.
