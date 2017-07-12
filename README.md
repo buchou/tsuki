@@ -1,6 +1,6 @@
 # Tsuki (&#26376;)
 
-Tsuki is a simple streaming video server meant to be used with the Moon Player app.
+Tsuki is a simple streaming video server meant to be used with the Moon VR Player smartphone app.
 It has been tested on Linux, but probably works on other platforms as well.
 
 ### Prerequisites
